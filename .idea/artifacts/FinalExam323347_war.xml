@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="FinalExam323347:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>FinalExam323347</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="FinalExam323347-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="FinalExam323347:war exploded" />
+    </root>
+  </artifact>
+</component>

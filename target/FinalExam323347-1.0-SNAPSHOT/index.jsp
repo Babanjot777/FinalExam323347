@@ -55,6 +55,6 @@
     </div>
 </div>
 <br/>
-<a href="display-name"><button>Add</button></a>
+<a href="hello-servlet"><button>Add</button></a>
 </body>
 </html>

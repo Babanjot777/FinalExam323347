@@ -1,5 +1,7 @@
 package com.example.finalexam323347;
 
+// github link: https://github.com/Babanjot777/FinalExam323347.git
+
 public class Customer {
     private String custno;
     private String custname;
